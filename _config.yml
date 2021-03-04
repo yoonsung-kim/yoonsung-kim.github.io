@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "Yoonsung Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoonsung Kim"
@@ -98,13 +98,16 @@ author:
   avatar           : "/assets/images/yskim.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M.S. Student at KAIST"
   location         : "Daejeon, South Korea"
-  email            : #"yoonsung0423@kaist.ac.kr"
+  email            : "yoonsung0423@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yoonsung0423@kaist.ac.kr"
+      # url: "yoonsung0423@kaist.ac.kr"
     - label: "Linkdin"
       icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/yoonsung-kim-66959517a"
+    - label: "CV"
+      icon: "fab fa-fw fa-file-o"
       url: "https://www.linkedin.com/in/yoonsung-kim-66959517a"
     - label: "Website"
       icon: "fas fa-fw fa-link"
