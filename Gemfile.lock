@@ -75,6 +75,7 @@ PLATFORMS
 DEPENDENCIES
   academic
   jekyll (~> 4.2.0)
+  jekyll-data
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (~> 1.2)
