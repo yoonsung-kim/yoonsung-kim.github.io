@@ -107,7 +107,7 @@ author:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/yoonsung-kim-66959517a"
     - label: "CV"
-      icon: "fab fa-fw fa-file-o"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/yoonsung-kim-66959517a"
     - label: "Website"
       icon: "fas fa-fw fa-link"
