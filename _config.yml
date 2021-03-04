@@ -108,7 +108,7 @@ author:
       url: "https://www.linkedin.com/in/yoonsung-kim-66959517a"
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/yoonsung-kim-66959517a"
+      url: "/assets/resume/resume-yoonsung-kim.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
