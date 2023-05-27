@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Yoonsung Kim"
   avatar           : "/assets/images/yskim.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "M.S. Student at KAIST"
+  bio              : "Ph.D. Student at KAIST"
   location         : "Daejeon, South Korea"
   email            : "yoonsung0423@kaist.ac.kr"
   links:
